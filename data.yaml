@@ -1,0 +1,7 @@
+train: /content/gdrive/MyDrive/Arson_dataset/train/images
+val: /content/gdrive/MyDrive/Arson_dataset/val/images
+test: /content/gdrive/MyDrive/Arson_dataset/test/images
+
+# الفئات (Classes)
+nc: 1                        # عدد الفئات
+names: ['Arson']            

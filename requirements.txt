@@ -1,0 +1,5 @@
+torch>=1.13
+ultralytics>=8.0.20
+mealpy>=1.0.4
+wandb>=0.15.0
+pandas>=1.3.0
